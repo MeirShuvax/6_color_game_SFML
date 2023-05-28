@@ -1,3 +1,14 @@
+ Creator: Meir Shuvax- Student in Hadassah Academic College Jerusalem. 
+ This project was made as final project in semester a' year b'. 
+
+To build this game-project you must have SFML library downloaded on your 
+computer and located in the C directory because that is where the cmake directs the 
+compiler to find it. When you have it you can build it (cmake project building) and run/debug as you wish. 
+
+SFML can be downloded from: https://www.sfml-dev.org/download.php
+ 
+
+
 1. כותרת : תרגיל oop2- תרגול שימוש במבני נתונים, איטרטורים ואלגוריתמים בסגנון STL וריענון השימוש ב־SFML, סמסטר ב'.
 
 
