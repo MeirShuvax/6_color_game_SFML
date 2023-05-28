@@ -1,5 +1,5 @@
  Creator: Meir Shuvax- Student in Hadassah Academic College Jerusalem. 
- This project was made as final project in semester a' year b'. 
+ This project was made as final project in semester b' year b'. 
 
 To build this game-project you must have SFML library downloaded on your 
 computer and located in the C directory because that is where the cmake directs the 
